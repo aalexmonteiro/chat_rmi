@@ -1,7 +1,4 @@
-# TRABALHO DE IMPLEMENTAÇÃO RMI
-
-Aluno: Antonio Alex Monteiro de Sousa
-Matricula: 409542
+# IMPLEMENTAÇÃO RMI
 
 # PASSOS PARA EXECUTAR
 
